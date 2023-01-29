@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [(Doso-Web-App)](https://doso-the-doubt-solving-web-app.web.app/)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Front End Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
